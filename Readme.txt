@@ -1,5 +1,9 @@
-﻿演示视频
+﻿This Project Win Second Price(3rd) in Microsoft Student Challenge, 2012
+
+演示视频
 http://v.youku.com/v_show/id_XMzM1NDg1NDY4.html
+
+
 
  * -----------------------------------------*
  * Made By PKU_3_IDIORTS                    *
